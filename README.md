@@ -17,3 +17,6 @@
 - [mouth_swap.py](https://github.com/spmallick/learnopencv/blob/master/FaceSwap/faceSwap.py)：嘴巴置换方法(第二种融合方法——卡通化效果不佳)
 ### 5、对齐方法
 - align_face.py：将亚洲人脸按照卡通人脸眼睛水平距离对齐，然后裁剪至相同大小
+***
+### Reference
+- The above referenced code links have been given on GitHub, thanks again to the authors!

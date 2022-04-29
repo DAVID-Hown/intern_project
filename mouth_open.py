@@ -1,5 +1,5 @@
 '''
-* @author [v_daweihao]
+* @author [daweihao]
 * @version [2021-08-03]
 * <检测嘴巴是否张开>
 '''

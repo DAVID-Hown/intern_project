@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 '''
-* @author [v_daweihao]
+* @author [daweihao]
 * @version [2021-08-03]
 * 〈将卡通人脸嘴巴与美术提供的五官中的嘴巴进行置换〉
 '''

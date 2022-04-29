@@ -1,5 +1,5 @@
 '''
-* @author [v_daweihao]
+* @author [daweihao]
 * @version [2021-07-15]
 * 〈卡通化亚洲人脸图像〉
 '''

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-* @author [v_daweihao]
+* @author [daweihao]
 * @version [2021-08-09]
 * <image size(1024, 512)-->(512, 512)>
 '''

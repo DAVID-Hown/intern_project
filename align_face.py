@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-* @author [v_daweihao]
+* @author [daweihao]
 * @version [2021-08-10]
 * 〈按照眼睛关键点对齐人脸〉
 * Reference:

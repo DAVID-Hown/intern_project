@@ -1,5 +1,5 @@
 '''
-* @author [v_daweihao]
+* @author [daweihao]
 * @version [2021-08-04]
 * 〈生成视频图像数据处理〉
 '''

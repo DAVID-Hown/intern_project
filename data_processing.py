@@ -1,5 +1,5 @@
 '''
-* @author [v_daweihao]
+* @author [daweihao]
 * @version [2021-07-26]
 * <融合图像过程中的数据预处理>
 '''

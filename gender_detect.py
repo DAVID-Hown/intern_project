@@ -1,5 +1,5 @@
 '''
-* @author [v_daweihao]
+* @author [daweihao]
 * @version [2021-08-03]
 * 〈亚洲人脸数据集按照男女分类〉
 '''
